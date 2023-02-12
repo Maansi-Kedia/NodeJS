@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "bitly": "^7.1.2",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "question 1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
